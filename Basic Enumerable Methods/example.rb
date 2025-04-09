@@ -1,0 +1,1 @@
+# Enumerables are a set of convenient built-in methods in Ruby that are included as part of both arrays and hashes.
